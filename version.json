@@ -1,6 +1,6 @@
 {
   "version": "26.1.0",
-  "release_date": "2026-04-28",
+  "release_date": "2026-02-28",
   "release_notes": "-  Lieder Schatz, added 1 verse of syllabized text for all songs so if melody is available it can be played.\n(NOTE:) The syllabized text/lyrics might not show correctly for all songs as it is currently being worked on.\n-  Finally! Prompts when new updates are available. Now when there is a new update available you will get a prompt when launching DSD. This feature was requested a lot. I finally found a simple way to implement it without having to pay for an online host or website.\n-  Other minor bug fixes and corrections",
   "download_url": "https://github.com/H4W9/DSD-Updates/raw/refs/heads/main/version.json"
 }
