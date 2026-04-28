@@ -1,6 +1,6 @@
 {
-  "version": "26.1.0",
-  "release_date": "3/21/2026",
-  "release_notes": "-  Lieder Schatz, added new songs",
+  "version": "26.2.0",
+  "release_date": "4/28/2026",
+  "release_notes": "-  Lieder Schatz, added 2 new songs\n-  Lieder Schatz, corrections\n-  Performance & Storage Overhaul, Image Externalization\n",
   "download_url": "https://github.com/H4W9/DSD-Updates/raw/refs/heads/main/version.json"
 }
