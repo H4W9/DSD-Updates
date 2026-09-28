@@ -1,6 +1,6 @@
 {
-  "version": "26.2.0",
-  "release_date": "4/28/2026",
-  "release_notes": "-  Lieder Schatz, added 2 new songs\n-  Lieder Schatz, corrections\n-  Performance & Storage Overhaul, Image Externalization\n",
+  "version": "26.3.0",
+  "release_date": "9/27/2026",
+  "release_notes": "-  Performance & Storage Overhaul, Part 2 - Database Cleanup\n - Removed 293 unused pictures that had built up in the database's image gallery (218 of them were copies of the same gray background, left behind when forms were copied). The 9 pictures actually in use were kept.\n - Removed the embedded audio recordings from 'Audio Geschichten 201-205'. The stories already play from the MP3 files in the Data\\ folder. The lesson list also no longer loads the full recording in the background every time a lesson is picked, so switching lessons is faster.\n - Removed old backup copies of tables and unused queries.\n Database size reduced from ~497 MB to ~200 MB after compacting. That is another 60% smaller, and down from ~1.05 GB before the 26.2.0 overhaul!\n-  Faster: DSD now keeps its user data file open while the program is running instead of re-opening it for every screen and lookup. This reduces lag, especially when the data file is on a network drive.\n-  Grades, faster grade entry: after saving a grade, the next student is suggested automatically: the next oldest student in the same class who doesn't have that grade yet, then the oldest student in the next class down. The Class fills in too. Nothing is saved until you enter something (e.g. Points), so picking a different student works just like before.\n-  Sprüche: added the Pathway Sprüchebuch (128 titles, 604 verses) in Fraktur (Druckt) and Handschrift, including the book's subheadings.",
   "download_url": "https://github.com/H4W9/DSD-Updates/raw/refs/heads/main/version.json"
 }
