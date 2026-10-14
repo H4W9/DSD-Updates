@@ -1,6 +1,6 @@
 {
-  "version": "26.3.0",
-  "release_date": "9/27/2026",
-  "release_notes": "-  Performance & Storage Overhaul, Part 2 - Database Cleanup\n - Removed the embedded audio recordings from 'Audio Geschichten 201-205'. The stories are now stored in the Data\\ folder.\n - Removed old backup copies of tables and unused queries.\n Database size reduced from ~497 MB to ~200 MB after compacting. That is another 60% smaller.\n-  Faster: DSD now keeps its user data file open while the program is running. This reduces lag.\n-  Grades, faster grade entry: after saving a grade, the next student is suggested automatically: the next oldest student in the same class who doesn't have that grade yet, then the oldest student in the next class down. The Class fills in too. Nothing is saved until you enter something (e.g. Points), so picking a different student works just like before.\n-  Sprüche: added the Pathway Sprüchebuch.",
+  "version": "26.4.0",
+  "release_date": "10/13/2026",
+  "release_notes": "-  Geschichte: added the Pathway Geschichten (126 stories with Fragen) in Fraktur (Druckt) and Handschrift. Proofreading is in progress. 'Alle Geschichte' now prints only the selected book. \n-  Calendar: birthdays of non-students now repeat every year, show on the birthday form and can be deleted from any year.\n-  Calendar: events of students who left school are hidden from the date they left (taken from Notes). Changing a student's Status now adds a dated line to Notes.\n-  ABC Schreiben: Added options to print Flash Cards.",
   "download_url": "https://github.com/H4W9/DSD-Updates/raw/refs/heads/main/version.json"
 }
