@@ -1,6 +1,6 @@
 {
-  "version": "26.5.0",
-  "release_date": "10/20/2026",
-  "release_notes": "-  Lieder Schatz and Gebete: print only certain verses. Type a range or list in the verse box (e.g. 2-5 or 3, 5). A single number still prints the first verses, as before.\n-  Faster start: the welcome screen now loads the program while it is showing, so closing it is instant. The update check runs in the background once per start instead of every time the main menu is shown.\n-  Deutsch Helfer: choose the font of the input box (Latein or Druckt). The choice is remembered.\n-  Schülernoten: new Subject filter for the grades list. Clear Filters clears it too.\n-  Calendar: grade events (start, skipped and repeated grades) now update automatically from the school-year class assignments.\n-  Lieder Schatz and Gebete: fixed verse lines sometimes showing mixed up (projector and copy sheets). Switching songs is faster with less flashing.",
+  "version": "26.6.0",
+  "release_date": "10/26/2026",
+  "release_notes": "-  Geschichte und Sprüche Wortschatz: new vocabulary worksheets for all Lehrer and Pathway Geschichten. Each story has 7-9 words from the story and words from its Sprüche, with definitions that fit the story, plus Selbstprobe and Abschlußtest lessons. Open it with the Wortschatz button in Sprüche. Prints like Rechtschreibung 201-205 (Handschrift, BW Schrift, Übung, Denken und Schreiben, Bibel Vers).\n-  Sprüche: new Latein font option for printing Sprüche and Geschichte.\n-  Kreuzworträtsel: crossword from the selected words (definitions as clues, optional word list, red answer key) in Wortschatz and Rechtschreibung 201-205; fill-in puzzle for 101-108.\n-  Word lists show how many words are selected (Selected: n/n).",
   "download_url": "https://github.com/H4W9/DSD-Updates/raw/refs/heads/main/version.json"
 }
