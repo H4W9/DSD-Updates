@@ -1,6 +1,6 @@
 {
-  "version": "26.6.0",
-  "release_date": "10/26/2026",
-  "release_notes": "-  Geschichte und Sprüche Wortschatz: new vocabulary worksheets for all Lehrer and Pathway Geschichten. Each story has 7-9 words from the story and words from its Sprüche, with definitions that fit the story, plus Selbstprobe and Abschlußtest lessons. Open it with the Wortschatz button in Sprüche. Prints like Rechtschreibung 201-205 (Handschrift, BW Schrift, Übung, Denken und Schreiben, Bibel Vers).\n-  Sprüche: new Latein font option for printing Sprüche and Geschichte.\n-  Kreuzworträtsel: crossword from the selected words (definitions as clues, optional word list, red answer key) in Wortschatz and Rechtschreibung 201-205; fill-in puzzle for 101-108.\n-  Word lists show how many words are selected (Selected: n/n).",
+  "version": "26.7.0",
+  "release_date": "10/28/2026",
+  "release_notes": "-  A B C Lernen und Schreiben: Kreuzworträtsel with the pictures as clues and the words as answers (optional word list, red answer key).\n-  It uses every picture of the selected letters, or one picture per letter (the one chosen on the form, or a random one with Randomize); ABC letters and Umlaut - Diphthong - Digraf are separate.\n-  Rechtschreibung 101-104: with no words selected, the Kreuzworträtsel uses the pictures of the selected lessons' letters (optional word list).\n-  Crosswords: Save as PDF suggests the heading as file name (or Answer Key); at least 3 words are needed.",
   "download_url": "https://github.com/H4W9/DSD-Updates/raw/refs/heads/main/version.json"
 }
