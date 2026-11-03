@@ -1,6 +1,6 @@
 {
-  "version": "26.7.0",
-  "release_date": "10/28/2026",
-  "release_notes": "-  A B C Lernen und Schreiben: Kreuzworträtsel with the pictures as clues and the words as answers (optional word list, red answer key).\n-  It uses every picture of the selected letters, or one picture per letter (the one chosen on the form, or a random one with Randomize); ABC letters and Umlaut - Diphthong - Digraf are separate.\n-  Rechtschreibung 101-104: with no words selected, the Kreuzworträtsel uses the pictures of the selected lessons' letters (optional word list).\n-  Crosswords: Save as PDF suggests the heading as file name (or Answer Key); at least 3 words are needed.",
+  "version": "26.8.0",
+  "release_date": "11/2/2026",
+  "release_notes": "-  Kreuzworträtsel: fixed Access sometimes hanging when a crossword was made with a phrase among the selected words.\n-  Reports open in Print Preview with a ribbon for printing, saving as PDF and closing. Geschichte and Sprüche reports have a Preview button that keeps the font sizes you set.\n-  Geschichte und Sprüche Wortschatz: the word list shows whether each word comes from the Geschicht or the Sprüche.\n-  Denken und Schreiben report revised for older students.",
   "download_url": "https://github.com/H4W9/DSD-Updates/raw/refs/heads/main/version.json"
 }
